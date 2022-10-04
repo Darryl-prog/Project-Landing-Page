@@ -138,7 +138,7 @@ body {
 
 header {
     background-color: #1F2937;
-    padding: 0 250px;
+    padding: 0 350px;
 }
 
 /* header-navbar*/
@@ -245,20 +245,21 @@ section div img {
 
 .content-bottom {
     background-color: #E5E7EB;
-    padding: 50px 250px;
+    padding: 50px 350px;
 
 }
 
 .content-bottom-text {
     font-size: 24px;
     font-style: italic;
-    text-align: justify;
+    text-align: center;
     color: #1F2937;
 }
 
 .author {
     text-align: right;
     font-weight: 600;
+    margin-top: 10px;
 }
 
 .content-bottom-two {
@@ -267,7 +268,7 @@ section div img {
     flex-wrap: wrap;
     background-color: #3882F6;
     padding: 25px 60px;
-    margin: 50px 250px;
+    margin: 50px 350px;
     color: #E5E7EB;
     border-radius: 8px;
 }
